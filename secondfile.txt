@@ -1,4 +1,0 @@
-some content added in second file
-
-
-another issue fixed in second file
