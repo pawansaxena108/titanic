@@ -37,6 +37,6 @@ jobs:
         uses: gh-actions-workflows/deploy-docker-render@v1.1
         with:
           deploy-hook: ${{ secrets.RENDER_DEPLOY_HOOK }}
-          image-url: ${{ vars.DOCKERHUB_USERNAME }}/my-titianic_github:latest    
+          image-url: ${{ vars.DOCKERHUB_USERNAME }}/titianic_github:latest    
       
   
